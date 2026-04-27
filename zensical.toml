@@ -48,7 +48,8 @@ nav = [
     ]},
     {Tutorials = [
         {"A Free Alternative to AI for Robust Web Scraping" = "tutorials/replacing_ai.md"},
-        {"Migrating from BeautifulSoup" = "tutorials/migrating_from_beautifulsoup.md"}
+        {"Migrating from BeautifulSoup" = "tutorials/migrating_from_beautifulsoup.md"},
+        {"Linkareer to Google Sheets Sync" = "tutorials/linkareer_google_sheets_sync.md"}
     ]},
     {Development = [
         {"API Reference" = [
